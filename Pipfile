@@ -1,0 +1,44 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+flask = "*"
+python-dotenv = "*"
+requests = "*"
+flask-sqlalchemy = "*"
+apiwrapper = "*"
+colorama = "*"
+flask-crontab = "*"
+gunicorn = "*"
+pymysql = "*"
+flask-admin = "*"
+flask-json = "*"
+flask-migrate = "*"
+apscheduler = "*"
+flask-apscheduler = "*"
+flask-marshmallow = "*"
+marshmallow-sqlalchemy = "*"
+flask-cors = "*"
+numpy = "*"
+pusher = "*"
+sendotp = "*"
+flask-inputs = "*"
+tweepy = "*"
+sentry-sdk = {extras = ["flask"],version = "*"}
+mysqlclient = "*"
+redis = "*"
+flask-rq2 = "*"
+rq-dashboard = "*"
+pyfcm = "*"
+flask-basicauth = "*"
+twilio = "*"
+python-telegram-bot = "*"
+
+[requires]
+python_version = "3.7"
