@@ -1,4 +1,4 @@
-# JalPravah (Mobile App)(LN397 CROSS_Coders)
+# JalPravah (Web App)(LN397 CROSS_Coders)
 
 ###### One Solution For All Dams
 
